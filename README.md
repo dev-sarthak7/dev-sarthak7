@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋 I'm Sarthak Satish Borekar!
+
+I'm a passionate learner currently learning Web Development.
 
 <!--
 **dev-sarthak7/dev-sarthak7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
