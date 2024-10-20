@@ -17,10 +17,6 @@
 <a href="https://www.leetcode.com/https://leetcode.com/u/sarthaks7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/sarthaks7/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/sarthaks7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/sarthaks7/" height="30" width="40" /></a>
 </p>
-< div align: "right">
-  <img  src="https://s2.ezgif.com/tmp/ezgif-2-33e8aac58a.gif"  height="202.5" width="360" >
-
-<div/>
 
   
 
