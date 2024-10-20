@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 📫 How to reach me **sarthakborekarcr7s@gmail.com**
+- 📫 How to reach me <img src="https://media-public.canva.com/_nr44/MAE3Aa_nr44/1/t.png" height="24" width="24"> **sarthakborekarcr7s@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
