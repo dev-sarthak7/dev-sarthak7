@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sarthak <img src="https://abs-0.twimg.com/emoji/v2/svg/1f1ee-1f1f3.svg" width="32" height="32""></h1> 
+<h1 align="center">Hi 👋, I'm Sarthak <img src="https://abs-0.twimg.com/emoji/v2/svg/1f1ee-1f1f3.svg" width="32" "></h1> 
 
 
 <h3 align="center">A passionate Web Developer from India</h3>
